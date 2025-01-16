@@ -7,7 +7,7 @@ This project aims to build a machine learning model that predicts whether passen
 ```
 titanic-ml-project
 ├── data
-│   ├── train.csv         # Training dataset with features and labels
+│   ├── train.csv         # Training dataset with features and labels.
 │   └── test.csv          # Test dataset for predictions
 ├── notebooks
 │   └── exploratory_data_analysis.ipynb  # Jupyter notebook for EDA
